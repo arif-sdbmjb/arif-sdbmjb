@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## ℹ️ Tentang Repositori
 
-Repositori ini tidak mewakili **Suku Dinas Bina Marga Jakarta Barat (SDBMJB)** sebagai sebuah institusi, melainkan dibuat oleh personal untuk keperluan dokumentasi pribadi terkait kebinamargaan khususnya di wilayah kota administrasi Jakarta Barat.
+Repositori ini tidak mewakili **Suku Dinas Bina Marga Jakarta Barat (SDBMJB)** sebagai sebuah institusi, melainkan dibuat oleh personal untuk keperluan dokumentasi / arsip pribadi terkait kebinamargaan khususnya di wilayah kota administrasi Jakarta Barat.
