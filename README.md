@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **arif-sdbmjb/arif-sdbmjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ℹ️ Tentang Repositori
+
+Repositori ini tidak mewakili **Suku Dinas Bina Marga Jakarta Barat (SDBMJB)** sebagai sebuah institusi, melainkan dibuat oleh personal untuk keperluan dokumentasi pribadi.
